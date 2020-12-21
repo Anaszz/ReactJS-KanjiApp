@@ -1,0 +1,52 @@
+.App {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.pagination {
+  height: 350px;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.questionGame{
+  height: 350px;
+  width: 100%;
+  color: grey;
+  display: flex;
+  flex-direction: column;
+  align-items: center ;
+}
+
+.lifeGame{
+  position: absolute;
+  top: 20px;
+  right: 5px;
+}
+
+.btnNav{
+  position: absolute;
+  left: 20px;
+  top: 20px;
+}
+
+.btnGame2{
+  position: absolute;
+  bottom: 150px;
+  right: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.btnGame{
+  position: absolute;
+  bottom: 150px;
+  width: 300px;
+  height: 50px;
+}
