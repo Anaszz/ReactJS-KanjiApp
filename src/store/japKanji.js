@@ -1,6 +1,5 @@
-const japKanjiData = [
-  
-]{ "myId":0, "name": "学生", "prononciation":"gakusei", "translation":"Etudiant", "type": "nom", "family":"kanji",  "level":1},
+const japKanjiData = [ 
+{ "myId":0, "name": "学生", "prononciation":"gakusei", "translation":"Etudiant", "type": "nom", "family":"kanji",  "level":1},
 { "myId":1, "name": "英語", "prononciation":"eigo", "translation":"anglais", "type": "nom", "family":"kanji",  "level":1},
 { "myId":2, "name": "会社", "prononciation":"kaisha", "translation":"entreprise", "type": "nom", "family":"kanji",  "level":1},
 { "myId":3, "name": "日本", "prononciation":"nihon", "translation":"Japon", "type": "nom", "family":"kanji",  "level":1},
@@ -406,7 +405,7 @@ const japKanjiData = [
 { "myId":403, "name": "疲れます", "prononciation":"tsukamerasu", "translation":"fatigué", "type": "", "family":"kanji6},
 { "myId":404, "name": "親切", "prononciation":"shinsetsu", "translation":"gentil (vers longue)", "type": "", "family":"kanji6},
 { "myId":405, "name": "旅行", "prononciation":"ryouko", "translation":"voyage", "type": "", "family":"kanji6},
-{ "myId":406, "name": "暇", "prononciation":"hima", "translation":"libre", "type": "", "family":"kanji6},
-
+{ "myId":406, "name": "暇", "prononciation":"hima", "translation":"libre", "type": "", "family":"kanji6}
+]
 
 export default japKanjiData
