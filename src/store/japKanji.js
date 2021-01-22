@@ -1,4 +1,4 @@
-const japKanjiData = [ 
+const japKanjiData = [
 { "myId":0, "name": "学生", "prononciation":"gakusei", "translation":"Etudiant", "type": "nom", "family":"kanji",  "level":1},
 { "myId":1, "name": "英語", "prononciation":"eigo", "translation":"anglais", "type": "nom", "family":"kanji",  "level":1},
 { "myId":2, "name": "会社", "prononciation":"kaisha", "translation":"entreprise", "type": "nom", "family":"kanji",  "level":1},
@@ -401,11 +401,12 @@ const japKanjiData = [
 { "myId":399, "name": "仕事", "prononciation":"shigoto", "translation":"métier", "type": "", "family":"kanji",  "level":6},
 { "myId":400, "name": "気分", "prononciation":"kibun", "translation":"humeur", "type": "", "family":"kanji",  "level":6},
 { "myId":401, "name": "気持", "prononciation":"kimochi", "translation":"sensation", "type": "", "family":"kanji",  "level":6},
-{ "myId":402, "name": "", "prononciation":"つまらない", "translation":"ennuyeux", "type": "", "family":"kanji6},
-{ "myId":403, "name": "疲れます", "prononciation":"tsukamerasu", "translation":"fatigué", "type": "", "family":"kanji6},
-{ "myId":404, "name": "親切", "prononciation":"shinsetsu", "translation":"gentil (vers longue)", "type": "", "family":"kanji6},
-{ "myId":405, "name": "旅行", "prononciation":"ryouko", "translation":"voyage", "type": "", "family":"kanji6},
-{ "myId":406, "name": "暇", "prononciation":"hima", "translation":"libre", "type": "", "family":"kanji6}
+{ "myId":402, "name": "", "prononciation":"つまらない", "translation":"ennuyeux", "type": "", "family":"kanji",  "level":6},
+{ "myId":403, "name": "疲れます", "prononciation":"tsukamerasu", "translation":"fatigué", "type": "", "family":"kanji",  "level":6},
+{ "myId":404, "name": "親切", "prononciation":"shinsetsu", "translation":"gentil (vers longue)", "type": "", "family":"kanji",  "level":6},
+{ "myId":405, "name": "旅行", "prononciation":"ryouko", "translation":"voyage", "type": "", "family":"kanji",  "level":6},
+{ "myId":406, "name": "暇", "prononciation":"hima", "translation":"libre", "type": "", "family":"kanji",  "level":6}
+
 ]
 
 export default japKanjiData
